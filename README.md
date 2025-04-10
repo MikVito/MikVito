@@ -15,9 +15,10 @@ Currently studying at Hexlet, learning manual testing, web testing, and Java bas
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat-square)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat-square)  
+![Windows Server](https://img.shields.io/badge/-Windows%20Server-0078D6?logo=windows&logoColor=white&style=flat-square)
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?logo=virtualbox&logoColor=white&style=flat-square)
+![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=flat-square)  
 
-🧪 **Tools:** IntelliJ IDEA, VS Code, Chrome DevTools, GitHub Desktop  
+🧪 **Tools:** IntelliJ IDEA, VS Code, Chrome DevTools, VirtualBox, GitHub Desktop
