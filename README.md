@@ -13,7 +13,7 @@ I’m skilled in setting up Windows servers, virtual machines, and IT environmen
 
 ## 🧰 My Tech Stack
 
-![☕️ Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logoColor=white)
+<img src="https://img.shields.io/badge/Java-%23007396.svg?style=flat-square&logo=java&logoColor=white" alt="Java Badge" />
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat-square)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=github-actions&logoColor=white&style=flat-square)
