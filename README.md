@@ -22,4 +22,4 @@ Currently studying at Hexlet, learning manual testing, web testing, and Java bas
 ![VMware](https://img.shields.io/badge/-VMware-607078?logo=vmware&logoColor=white&style=flat-square)
 ![Hardware](https://img.shields.io/badge/-PC%20Hardware%20Support-555555?style=flat-square)  
 
-🧪 **Tools:** IntelliJ IDEA, VS Code, Chrome DevTools, VirtualBox, GitHub Desktop
+🧪 **Tools:** IntelliJ IDEA, VS Code, Chrome DevTools, VirtualBox, GitHub Desktop, Windows Tools
