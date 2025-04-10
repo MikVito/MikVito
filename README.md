@@ -26,13 +26,14 @@ Currently studying at Hexlet, learning manual testing, web testing, and Java bas
 
 ---
 
-@Test  
-public void testCareerStart() {  
-    QAEngineer mikhail = new QAEngineer("MikVito");  
+```java
+@Test
+public void testCareerStart() {
+    QAEngineer mikhail = new QAEngineer("MikVito");
 
     assertTrue(mikhail.hasMotivation());
     assertTrue(mikhail.breaksEverything("on purpose"));
-    assertEquals("Careeria", mikhail.getItSupportSchool());
+    assertEquals("Careeria", mikhail.getITSupportSchool());
     assertEquals("Hexlet", mikhail.getSchool());
-    assertTrue(mikhail.knows("Postman", "GitHub_Actions", "Java", "Windows_Server", "PC_HardWare"));
+    assertTrue(mikhail.knows("Postman", "GitHub_Actions", "Java", "Windows_Server", "PC_Hardware"));
 }
