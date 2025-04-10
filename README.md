@@ -26,9 +26,9 @@ Currently studying at Hexlet, learning manual testing, web testing, and Java bas
 
 ---
 
-@Test
-public void testCareerStart() {
-    QAEngineer mikhail = new QAEngineer("MikVito");
+@Test  
+public void testCareerStart() {  
+    QAEngineer mikhail = new QAEngineer("MikVito");  
 
     assertTrue(mikhail.hasMotivation());
     assertTrue(mikhail.breaksEverything("on purpose"));
