@@ -23,3 +23,15 @@ Currently studying at Hexlet, learning manual testing, web testing, and Java bas
 ![Hardware](https://img.shields.io/badge/-PC%20Hardware%20Support-555555?style=flat-square)  
 
 🧪 **Tools:** IntelliJ IDEA, VS Code, Chrome DevTools, VirtualBox, GitHub Desktop, Windows Tools
+
+---
+
+@Test
+public void testCareerStart() {
+    QAEngineer mikhail = new QAEngineer("MikVito");
+
+    assertTrue(mikhail.hasMotivation());
+    assertTrue(mikhail.breaksEverything("on purpose"));
+    assertEquals("Hexlet", mikhail.getSchool());
+    assertTrue(mikhail.knows("Postman", "GitHub Actions", "Java", "Windows Server"));
+}
