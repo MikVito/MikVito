@@ -1,7 +1,9 @@
 ## ✨ Hi there, my name is Mikhail 👋  
 
 I'm an aspiring QA Engineer based in Helsinki, Finland 🇫🇮    
-Currently studying at Hexlet, learning manual testing, web testing, and Java basics.  
+Currently studying at Hexlet, learning manual testing, web testing, and Java basics. 
+I have a technical education in System Administration from Careeria Porvoo.  
+I’m skilled in setting up Windows servers, virtual machines, and IT environments.  
 
 💼 Open to work and collaboration opportunities  
 📬 How to reach me: mikhailvitoshnev@hotmail.com   
