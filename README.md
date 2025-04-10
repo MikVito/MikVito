@@ -32,7 +32,7 @@ public void testCareerStart() {
 
     assertTrue(mikhail.hasMotivation());
     assertTrue(mikhail.breaksEverything("on purpose"));
-    assertEquals("Caareria", mikhail.getItSupportSchool());
+    assertEquals("Careeria", mikhail.getItSupportSchool());
     assertEquals("Hexlet", mikhail.getSchool());
     assertTrue(mikhail.knows("Postman", "GitHub_Actions", "Java", "Windows_Server", "PC_HardWare"));
 }
