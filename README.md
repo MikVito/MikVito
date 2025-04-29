@@ -57,6 +57,7 @@ A console application with five mini-games that train logical thinking:
 
 📁 Repo: [java-project-61](https://github.com/MikVito/java-project-61)
 
+---
 
 ### 🧮 Java Project: Difference Calculator
 A CLI tool that compares two configuration files (JSON/YAML) and highlights the difference.  
@@ -65,6 +66,7 @@ Used Gradle, GitHub Actions, and modular structure.
 
 📁 Repo: [java-project-71](https://github.com/MikVito/java-project-71)
 
+---
 
 ### 🛒 QA Project: Online Store Testing
 Manual testing of a fictional e-commerce site.  
@@ -76,6 +78,7 @@ Covered functional and non-functional testing, including:
 
 📁 Repo: [qa-engineer-project-84](https://github.com/MikVito/qa-engineer-project-84)
 
+---
 
 ### ⚔️ QA Open Source Testing: Codebattle
 Tested a real open-source multiplayer coding platform.  
