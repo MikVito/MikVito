@@ -59,17 +59,17 @@ A console application with five mini-games that train logical thinking:
 ---
 
 ### 🧮 Java Project: Difference Calculator
-
-A console application that compares two configuration files in 
-**JSON**, **YAML**, or **YML** format and highlights the differences in various formats.
+A CLI tool that compares two configuration files (**JSON**, **YAML**, **YML**) and highlights their differences.
 
 #### 🔧 Features
-- Supports **JSON**, **YAML**, and **YML** formats
-- Detects structural and value differences
-- Three output formats:
-    - 🧾 **Stylish** (default) — structured tree format
-    - 📃 **Plain** — simplified textual description
-    - 🧱 **JSON** — machine-readable output
+- Supports multiple formats: JSON, YAML, YML
+- Detects structural and value-level differences
+- Three output formats: **Stylish**, **Plain**, **JSON**
+
+#### 🧪 Automated Testing
+Includes a full test suite using **JUnit 5** and **JSONAssert**:
+- Tests all output formats and comparison logic
+- Uses @BeforeAll setup, file mocks, and assertEquals
 
 📁 Repo: [java-project-71](https://github.com/MikVito/java-project-71)
 
