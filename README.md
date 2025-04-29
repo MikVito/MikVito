@@ -48,7 +48,6 @@ public void testCareerStart() {
 
 ### 🎮 Java Project: Brain Games
 A console application with five mini-games that train logical thinking:
-
 - **Even** – Check if a number is even
 - **Calculator** – Solve a math expression
 - **GCD** – Find the greatest common divisor
@@ -71,7 +70,6 @@ Used Gradle, GitHub Actions, and modular structure.
 ### 🛒 QA Project: Online Store Testing
 Manual testing of a fictional e-commerce site.  
 Covered functional and non-functional testing, including:
-
 - Test cases and bug reports in YAML format
 - Usability, responsiveness, security (XSS/SQLi), and performance
 - Tools: Postman, DevTools, YAML Lint, BrowserStack
@@ -83,7 +81,6 @@ Covered functional and non-functional testing, including:
 ### ⚔️ QA Open Source Testing: Codebattle
 Tested a real open-source multiplayer coding platform.  
 Covered:
-
 - Manual exploratory testing and bug reporting via GitHub Issues
 - Regression testing with screenshots
 - Documentation in YAML and Markdown
